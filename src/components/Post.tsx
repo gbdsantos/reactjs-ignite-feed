@@ -8,7 +8,6 @@ import { Comment } from './Comment';
 import styles from './Post.module.css';
 
 interface Author {
-  avatar: string;
   avatar_url: string;
   name: string;
   role: string;
